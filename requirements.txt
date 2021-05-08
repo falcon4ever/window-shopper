@@ -1,0 +1,4 @@
+requests==2.23.0
+cryptography==2.9.2
+protobuf==3.15.6
+git+https://github.com/falcon4ever/googleplay-api.git@pixel3xl#egg=gpapi
